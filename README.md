@@ -16,4 +16,4 @@ Réplica do Site da Apple Watch
 <br>
 
 ## Link do Deploy
-https://dom-casmurro.vercel.app/
+https://apple-watch-rose.vercel.app/
